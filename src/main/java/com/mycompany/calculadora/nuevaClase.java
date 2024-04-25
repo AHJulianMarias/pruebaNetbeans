@@ -9,5 +9,9 @@ package com.mycompany.calculadora;
  * @author admin
  */
 public class nuevaClase {
-    
+    public static void main(String[]args){
+        
+        System.out.print("Hola");
+        
+    }
 }
